@@ -1,7 +1,36 @@
-### Olá! Eu sou a Luana Furtado
+# Hi, I'm Luana Furtado! 👋
 
+I'm a Brazilian Front-End Developer currently based in New Zealand 🇳🇿  
+I have nearly 3 years of experience building responsive and user-focused web applications using **JavaScript**, **TypeScript**, **React**, and **Next.js**.
 
-- 🔭 Hoje trabalho com front-end
+I’m passionate about creating clean, accessible interfaces and continuously improving as a developer.  
+Currently rebuilding my portfolio after a break and open to new opportunities in tech.
+
+## 💼 Experience
+- **Queima Diaria** – Front-End Developer (2022–2023)  
+  Built scalable UIs with React & Next.js, collaborated with UI/UX teams.
+  
+- **CentroData** – Software Developer (2020–2022)  
+  Delivered full-stack features and reusable components.
+
+## ⚒️ Tech Stack
+- React • Next.js • TypeScript • JavaScript  
+- Styled Components • HTML • CSS • Git  
+- SQL • Figma • Agile/Scrum
+
+## 🌐 Featured Projects
+- [Project TBB](https://project-tbb.vercel.app) – Product listing UI using React + TS  
+- [Anima Vita](https://project-anima-vita.vercel.app) – Job application challenge
+
+## 📫 Let’s connect
+- [GitHub](https://github.com/luanafrtd)  
+- [LinkedIn](https://www.linkedin.com/in/luanaafurtado/)  
+- Email: luanafurtadoo11@gmail.com
+
+---
+
+✨ Always learning, always building.
+
 - 😄 Pronouns: ela/dela
 
 <div align="center">
